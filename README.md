@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diegodauri
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on small websites
+- 💞️ I’m looking to collaborate on small backend projects
 - 📫 How to reach me dauridiego@gmail.com
 
 <!---
