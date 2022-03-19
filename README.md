@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diegodauri
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning app development
-- 💞️ I’m looking to collaborate on small backend projects
+- 🌱 I’m currently learning iOS development
+- 💞️ I’m looking to collaborate on small iOS apps in swift
 - 📫 How to reach me dauridiego@gmail.com
 
 <!---
